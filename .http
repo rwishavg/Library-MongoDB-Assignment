@@ -1,0 +1,8 @@
+POST http://localhost:3000/add-new-post
+Content-Type: application/json
+
+{
+    "Book": "Mein Kampf",
+    "Name": "Adolf Hitler",
+    "Date": "05/06/1945"
+}
